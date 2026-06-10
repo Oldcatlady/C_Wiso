@@ -1,201 +1,161 @@
 [
-    {
-"question": "Welche gehören zu den Faktormärkten?",
-"options": {
-"A": "Konsumgütermarkt und Anlagegüter",
-"B": "Arbeitsmarkt, Immobilienmarkt, Kapital- und Geldmarkt",
-"C": "Nur Konsumgüter",
-"D": "Nur staatliche Märkte"
-},
-"correct": "B"
-},
-{
-"question": "Welche gehören zu den Gütermärkten?",
-"options": {
-"A": "Arbeitsmarkt und Kapitalmarkt",
-"B": "Immobilienmarkt und Geldmarkt",
-"C": "Konsumgütermarkt, Investitionsgütermarkt, Anlagegüter",
-"D": "Nur Arbeitsmarkt"
-},
-"correct": "C"
-},
-{
-"question": "Was beschreibt ein vollkommener Markt als Modell?",
-"options": {
-"A": "Viele staatliche Eingriffe",
-"B": "Keine Konkurrenz",
-"C": "Idealer Markt mit bestimmten Bedingungen",
-"D": "Monopolstruktur"
-},
-"correct": "C"
-},
-{
-"question": "Welche Bedingung gehört NICHT zum vollkommenen Markt?",
-"options": {
-"A": "Homogene Güter",
-"B": "Fehlen von Präferenzen",
-"C": "Vollkommene Markttransparenz",
-"D": "Preisabsprachen zwischen Unternehmen"
-},
-"correct": "D"
-},
-{
-"question": "Was bedeutet 'Homogenität der Güter'?",
-"options": {
-"A": "Güter sind völlig unterschiedlich",
-"B": "Güter sind gleichartig und austauschbar",
-"C": "Nur Luxusgüter werden angeboten",
-"D": "Güter sind staatlich festgelegt"
-},
-"correct": "B"
-},
-{
-"question": "Was bedeutet 'Markttransparenz' im vollkommenen Markt?",
-"options": {
-"A": "Nur Anbieter kennen Preise",
-"B": "Nur Nachfrager kennen Preise",
-"C": "Marktübersicht für Anbieter und Nachfrager",
-"D": "Keine Informationen am Markt"
-},
-"correct": "C"
-},
-{
-"question": "Wann entsteht ein unvollkommener Markt?",
-"options": {
-"A": "Wenn alle Bedingungen erfüllt sind",
-"B": "Wenn eine oder mehrere Bedingungen fehlen",
-"C": "Wenn nur ein Anbieter existiert",
-"D": "Wenn der Staat den Markt vollständig kontrolliert"
-},
-"correct": "B"
-},
-{
-"question": "Was kennzeichnet eine freie Marktwirtschaft?",
-"options": {
-"A": "Staat bestimmt alle Preise",
-"B": "Lenkung der Wirtschaft über den Markt, Staat setzt nur Rahmenbedingungen",
-"C": "Kein Wettbewerb",
-"D": "Nur staatliche Unternehmen"
-},
-"correct": "B"
-},
-{
-"question": "Was ist typisch für eine soziale Marktwirtschaft?",
-"options": {
-"A": "Reiner Staatseingriff ohne Markt",
-"B": "Keine soziale Absicherung",
-"C": "Marktwirtschaft mit sozialen Korrekturen",
-"D": "Nur freie Preisbildung ohne Regeln"
-},
-"correct": "C"
-},
-{
-"question": "Welche Aussage gehört zum Fehlen von Präferenzen im vollkommenen Markt?",
-"options": {
-"A": "Kunden bevorzugen bestimmte Anbieter",
-"B": "Es gibt persönliche, räumliche oder zeitliche Präferenzen",
-"C": "Keine persönlichen, räumlichen oder zeitlichen Präferenzen",
-"D": "Nur Markenprodukte werden gekauft"
-},
-"correct": "C"
-},
-{
-"question": "Was passiert, wenn Markttransparenz gegeben ist?",
-"options": {
-"A": "Keine Informationen verfügbar",
-"B": "Nur Preise sind bekannt",
-"C": "Alle Marktteilnehmer haben Überblick über Preise und Angebote",
-"D": "Nur der Staat kennt alle Daten"
-},
-"correct": "C"
-},
   {
-    "question": "Welche der folgenden Maßnahmen stellt einen marktkonformen (indirekten) Eingriff des Staates in die Preisbildung dar?",
+    "question": "Welche Märkte gehören zu den Faktormärkten?",
     "options": {
-      "A": "Die gesetzliche Festlegung einer Obergrenze für die Quadratmetermiete",
-      "B": "Die Auszahlung von staatlichen Subventionen an Unternehmen",
-      "C": "Das Verbot, bestimmte Güter unter einem Mindestpreis zu verkaufen",
-      "D": "Die behördliche Festsetzung von Festpreisen für Grundnahrungsmittel"
+      "A": "Der Konsumgütermarkt und der Markt für Anlagegüter.",
+      "B": "Der Arbeitsmarkt, der Immobilienmarkt sowie der Kapital- und Geldmarkt.",
+      "C": "Ausschließlich Märkte für Konsumgüter.",
+      "D": "Ausschließlich staatlich organisierte Märkte."
     },
     "correct": "B"
   },
   {
-    "question": "Warum führt ein staatlich festgesetzter Höchstpreis auf dem Wohnungsmarkt häufig zu einem Sinken des Wohnungsangebots?",
+    "question": "Welche Märkte gehören zu den Gütermärkten?",
     "options": {
-      "A": "Weil die Nachfrage nach Wohnungen durch die günstigeren Mieten drastisch zurückgeht",
-      "B": "Weil der Staat den Vermietern verbietet, leerstehende Wohnungen neu zu vermieten",
-      "C": "Weil der Mieterlös für manche Vermieter die laufenden Betriebs- und Instandhaltungskosten nicht mehr deckt",
-      "D": "Weil Investoren gesetzlich dazu verpflichtet werden, nur noch Luxusimmobilien zu bauen"
+      "A": "Der Arbeitsmarkt und der Kapitalmarkt.",
+      "B": "Der Immobilienmarkt und der Geldmarkt.",
+      "C": "Der Konsumgütermarkt, der Investitionsgütermarkt und der Markt für Anlagegüter.",
+      "D": "Ausschließlich der Arbeitsmarkt."
     },
     "correct": "C"
   },
   {
-    "question": "Welche Marktsituation entsteht in der Regel als direkte Folge eines staatlich verordneten Höchstpreises, der unter dem Gleichgewichtspreis liegt?",
+    "question": "Was beschreibt ein vollkommener Markt als theoretisches Modell?",
     "options": {
-      "A": "Ein Angebotsüberhang, da die Anbieter mehr Güter auf den Markt bringen wollen",
-      "B": "Ein Nachfrageüberhang, da die angebotene Menge sinkt, während die nachgefragte Menge steigt",
-      "C": "Ein neues, stabile Marktgleichgewicht auf einem niedrigeren Preisniveau",
-      "D": "Eine sofortige Schließung aller Schwarzmärkte aufgrund der fairen Preise"
+      "A": "Ein Markt mit vielen staatlichen Eingriffen in die Preisbildung.",
+      "B": "Ein Markt ohne jegliche Konkurrenz zwischen den Anbietern.",
+      "C": "Ein idealisierter Markt, der bestimmte Bedingungen vollständig erfüllt.",
+      "D": "Ein Markt mit einer Monopolstruktur, bei der ein Anbieter dominiert."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Welche Bedingung gehört NICHT zu einem vollkommenen Markt?",
+    "options": {
+      "A": "Die Güter auf dem Markt sind homogen, also gleichartig.",
+      "B": "Es fehlen persönliche, räumliche und zeitliche Präferenzen.",
+      "C": "Es herrscht vollkommene Markttransparenz für alle Teilnehmer.",
+      "D": "Unternehmen treffen Preisabsprachen miteinander."
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Was bedeutet 'Homogenität der Güter' auf einem Markt?",
+    "options": {
+      "A": "Die angebotenen Güter sind völlig unterschiedlich und nicht vergleichbar.",
+      "B": "Die angebotenen Güter sind gleichartig und vollständig austauschbar.",
+      "C": "Auf dem Markt werden ausschließlich Luxusgüter angeboten.",
+      "D": "Die Güter werden vom Staat festgelegt und zugeteilt."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Was bedeutet 'Markttransparenz' im Modell des vollkommenen Marktes?",
+    "options": {
+      "A": "Nur die Anbieter haben Kenntnis über die aktuellen Marktpreise.",
+      "B": "Nur die Nachfrager haben Kenntnis über die aktuellen Marktpreise.",
+      "C": "Sowohl Anbieter als auch Nachfrager haben einen vollständigen Überblick über Preise und Angebote.",
+      "D": "Auf dem Markt sind keinerlei Preis- oder Angebotsinformationen verfügbar."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Wann entsteht ein unvollkommener Markt?",
+    "options": {
+      "A": "Wenn alle Bedingungen des vollkommenen Marktes vollständig erfüllt sind.",
+      "B": "Wenn eine oder mehrere Bedingungen des vollkommenen Marktes nicht erfüllt sind.",
+      "C": "Wenn auf dem Markt ausschließlich ein einziger Anbieter existiert.",
+      "D": "Wenn der Staat die gesamte Wirtschaft vollständig kontrolliert."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Was kennzeichnet eine freie Marktwirtschaft?",
+    "options": {
+      "A": "Der Staat legt alle Preise und Produktionsmengen zentral fest.",
+      "B": "Die Wirtschaft wird über den Markt gelenkt, und der Staat setzt lediglich den rechtlichen Rahmen.",
+      "C": "Es gibt keinen Wettbewerb zwischen den Marktteilnehmern.",
+      "D": "Nur staatliche Unternehmen sind auf dem Markt tätig."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Was ist typisch für eine soziale Marktwirtschaft?",
+    "options": {
+      "A": "Der Staat greift vollständig in die Wirtschaft ein, ohne Marktmechanismen zuzulassen.",
+      "B": "Es gibt keine soziale Absicherung für die Bürgerinnen und Bürger.",
+      "C": "Die Marktwirtschaft wird durch staatliche Maßnahmen zur sozialen Absicherung ergänzt.",
+      "D": "Preise werden ausschließlich frei gebildet, ohne jegliche staatliche Regeln."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Was bedeutet das Fehlen von Präferenzen im Modell des vollkommenen Marktes?",
+    "options": {
+      "A": "Kunden bevorzugen bestimmte Anbieter aufgrund persönlicher Beziehungen.",
+      "B": "Es existieren persönliche, räumliche oder zeitliche Präferenzen der Käufer.",
+      "C": "Es gibt keine persönlichen, räumlichen oder zeitlichen Präferenzen der Marktteilnehmer.",
+      "D": "Käufer erwerben ausschließlich Markenprodukte bekannter Hersteller."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Was folgt daraus, wenn auf einem Markt vollständige Markttransparenz herrscht?",
+    "options": {
+      "A": "Keinerlei Informationen über Preise oder Angebote sind verfügbar.",
+      "B": "Nur die Preise, nicht aber die Angebote sind den Marktteilnehmern bekannt.",
+      "C": "Alle Marktteilnehmer haben einen vollständigen Überblick über Preise und Angebote.",
+      "D": "Ausschließlich der Staat hat Zugang zu allen Marktdaten."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Welche Maßnahme stellt einen marktkonformen (indirekten) Eingriff des Staates in die Preisbildung dar?",
+    "options": {
+      "A": "Die gesetzliche Festlegung einer Obergrenze für die Quadratmetermiete.",
+      "B": "Die Auszahlung von staatlichen Subventionen an Unternehmen.",
+      "C": "Das Verbot, bestimmte Güter unter einem festgelegten Mindestpreis zu verkaufen.",
+      "D": "Die behördliche Festsetzung von Festpreisen für Grundnahrungsmittel."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Warum führt ein staatlich festgesetzter Höchstpreis auf dem Wohnungsmarkt häufig zu einem Rückgang des Wohnungsangebots?",
+    "options": {
+      "A": "Weil die Nachfrage nach Wohnungen durch die günstigeren Mieten stark zurückgeht.",
+      "B": "Weil der Staat den Vermietern verbietet, leerstehende Wohnungen neu zu vermieten.",
+      "C": "Weil der erzielte Mieterlös für manche Vermieter die laufenden Betriebs- und Instandhaltungskosten nicht mehr deckt.",
+      "D": "Weil Investoren gesetzlich dazu verpflichtet werden, ausschließlich Luxusimmobilien zu bauen."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Welche Marktsituation entsteht typischerweise, wenn ein staatlich verordneter Höchstpreis unterhalb des Gleichgewichtspreises liegt?",
+    "options": {
+      "A": "Ein Angebotsüberhang, weil die Anbieter mehr Güter auf den Markt bringen wollen.",
+      "B": "Ein Nachfrageüberhang, weil die angebotene Menge sinkt, während die nachgefragte Menge steigt.",
+      "C": "Ein neues, stabiles Marktgleichgewicht auf einem niedrigeren Preisniveau.",
+      "D": "Eine sofortige Schließung aller Schwarzmärkte aufgrund der als fair empfundenen Preise."
     },
     "correct": "B"
   },
   {
     "question": "Warum gelten Transferleistungen wie das Wohngeld im Gegensatz zu Höchstmieten als marktkonform?",
     "options": {
-      "A": "Weil sie den Preismechanismus des Marktes nicht außer Kraft setzen, sondern lediglich die Nachfrage- oder Angebotskurve verschieben",
-      "B": "Weil sie die Vermieter dazu zwingen, die Mieten für alle Bürger sofort zu senken",
-      "C": "Weil sie direkt vom Staat durch die Festlegung von Höchstpreisen finanziert werden",
-      "D": "Weil sie einen dauerhaften Angebotsüberhang auf dem Wohnungsmarkt erzwingen"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "Welche der folgenden Maßnahmen stellt einen marktkonformen (indirekten) Eingriff des Staates in die Preisbildung dar?",
-    "options": {
-      "A": "Die gesetzliche Festlegung einer Obergrenze für die Quadratmetermiete",
-      "B": "Die Auszahlung von staatlichen Subventionen an Unternehmen",
-      "C": "Das Verbot, bestimmte Güter unter einem Mindestpreis zu verkaufen",
-      "D": "Die behördliche Festsetzung von Festpreisen für Grundnahrungsmittel"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "Warum führt ein staatlich festgesetzter Höchstpreis auf dem Wohnungsmarkt häufig zu einem Sinken des Wohnungsangebots?",
-    "options": {
-      "A": "Weil die Nachfrage nach Wohnungen durch die günstigeren Mieten drastisch zurückgeht",
-      "B": "Weil der Staat den Vermietern verbietet, leerstehende Wohnungen neu zu vermieten",
-      "C": "Weil der Mieterlös für manche Vermieter die laufenden Betriebs- und Instandhaltungskosten nicht mehr deckt",
-      "D": "Weil Investoren gesetzlich dazu verpflichtet werden, nur noch Luxusimmobilien zu bauen"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "Welche Marktsituation entsteht in der Regel als direkte Folge eines staatlich verordneten Höchstpreises, der unter dem Gleichgewichtspreis liegt?",
-    "options": {
-      "A": "Ein Angebotsüberhang, da die Anbieter mehr Güter auf den Markt bringen wollen",
-      "B": "Ein Nachfrageüberhang, da die angebotene Menge sinkt, während die nachgefragte Menge steigt",
-      "C": "Ein neues, stabiles Marktgleichgewicht auf einem niedrigeren Preisniveau",
-      "D": "Eine sofortige Schließung aller Schwarzmärkte aufgrund der fairen Preise"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "Warum gelten Transferleistungen wie das Wohngeld im Gegensatz zu Höchstmieten als marktkonform?",
-    "options": {
-      "A": "Weil sie den Preismechanismus des Marktes nicht außer Kraft setzen, sondern lediglich die Nachfrage- oder Angebotskurve verschieben",
-      "B": "Weil sie die Vermieter dazu zwingen, die Mieten für alle Bürger sofort zu senken",
-      "C": "Weil sie direkt vom Staat durch die Festlegung von Höchstpreisen finanziert werden",
-      "D": "Weil sie einen dauerhaften Angebotsüberhang auf dem Wohnungsmarkt erzwingen"
+      "A": "Weil sie den Preismechanismus des Marktes nicht außer Kraft setzen, sondern lediglich die Nachfrage- oder Angebotskurve verschieben.",
+      "B": "Weil sie die Vermieter dazu zwingen, die Mieten für alle Bürger sofort zu senken.",
+      "C": "Weil sie direkt durch staatliche Höchstpreisfestsetzungen finanziert werden.",
+      "D": "Weil sie einen dauerhaften Angebotsüberhang auf dem Wohnungsmarkt erzwingen."
     },
     "correct": "A"
   },
   {
     "question": "Welches primäre Ziel verfolgt der Staat mit der Festlegung von Mindestpreisen auf einem Markt?",
     "options": {
-      "A": "Den Schutz der Nachfrager vor überhöhten und unfairen Preisen",
-      "B": "Die Erhöhung der staatlichen Steuereinnahmen durch den Konsum",
-      "C": "Den Schutz der Anbieter vor einem ruinösen Preisverfall",
-      "D": "Die vollständige Abschaffung von staatlichen Subventionen"
+      "A": "Den Schutz der Nachfrager vor überhöhten und unfairen Preisen.",
+      "B": "Die Erhöhung der staatlichen Steuereinnahmen durch gesteigerten Konsum.",
+      "C": "Den Schutz der Anbieter vor einem ruinösen Preisverfall.",
+      "D": "Die vollständige Abschaffung staatlicher Subventionen."
     },
     "correct": "C"
   }
